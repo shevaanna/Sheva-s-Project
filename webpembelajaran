@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>web pembelajaran</title>
+
+</head>
+<body>
+    <h1 style="font-style: italic; background-color: lightcoral; color: aliceblue; text-align: center;" >WEB PEMBELAJARAN</h1>
+    <video width= "300" controls src="ULANG TAHUN SMPN 7 YOGYAKARTA #54.mp4" ></video>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Mi72fOuiwA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <audio controls src="Fourtwnty - Hitam Putih.mp3"></audio>
+    <br>
+    <a href="https://www.youtube.com/">ini link</a>
+
+    <ul>
+        <li>home</li>
+        <li>contact</li>
+        <li>info</li>
+    </ul>
+    <ol>
+        <li>nomer 1</li>
+        <li>nomer 2</li>
+        <li>nomer 3</li>
+    </ol>
+
+    <h2>Kelas A2 Hari Selasa Jam 09.20</h2>
+    <h3>Gedung Kuliah Noeng Muhajir Ruang Kelas 17</h3>
+    <p style="color:blue; border-style: dotted;">Hai, Namaku Sheva Annataru Program Studi Teknologi Pendidikan Angkatan 2020 Universitas Negeri Yogyakarta</p>
+<img src="Cover E-Modul.png" style="height: 1350px; width: 1080px;">
+</body>
+</html>
