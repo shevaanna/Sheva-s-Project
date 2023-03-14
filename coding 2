@@ -1,0 +1,26 @@
+<html>
+<head>
+    <style>
+        body{background-color: coral;}
+        header{font-size: xx-large;
+        background-color: beige;}
+        aside{
+            background-color: darkseagreen;
+            display: flex;
+            flex-direction: column;
+        }
+        main{
+            background-color: aliceblue;
+            font-style: italic;
+            display: flex;
+        }
+        footer{background-color: blue;}
+    </style>
+<body>
+        <header>HEADER GUYS</header>
+        <aside>sidebar</aside>
+        <main>content</main>
+        <footer>ini footer</footer>
+</body>
+</head>
+</html>
